@@ -23,7 +23,7 @@ local import = function(file: string)
         return warn('Failed to import ' .. file .. '!')
     end
 
-    return loadstring(Data);
+    return loadstring(Data)();
 end
 
 shared.import = import
