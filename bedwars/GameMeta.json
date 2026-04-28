@@ -1,0 +1,168 @@
+{
+    "GameMeta": {
+        "one-in-the-chamber": {
+            "title": "One In The Chamber"
+        },
+        "gun-game": {
+            "image": "rbxassetid://10977265283",
+            "title": "Gun Game",
+            "excludedStats": [
+                "bedBreaks",
+                "blockBreaks",
+                "blocksPlaced",
+                "ironCollected",
+                "diamondCollected",
+                "emeraldCollected",
+                "enchants",
+                "titanKills",
+                "diamondGuardianKills",
+                "telepearlsUsed",
+                "telepearlBlocksTravelled"
+            ]
+        },
+        "juggernaut": {
+            "title": "Juggernaut TDM",
+            "image": "rbxassetid://11108534877"
+        },
+        "bedwars": {
+            "title": "Bedwars",
+            "image": "rbxassetid://11104064080"
+        },
+        "infected": {
+            "title": "Infected",
+            "image": "rbxassetid://11104063651"
+        },
+        "bridge-duel": {
+            "title": "Bridge Battle",
+            "excludedStats": [
+                "ironCollected",
+                "diamondCollected",
+                "emeraldCollected",
+                "enchants",
+                "titanKills",
+                "diamondGuardianKills",
+                "telepearlsUsed",
+                "telepearlBlocksTravelled"
+            ]
+        },
+        "survival": {
+            "title": "Penguin Survival",
+            "image": "rbxassetid://11108541918"
+        },
+        "FLAG_CAPTURE": {
+            "title": "Capture The Flag",
+            "image": "rbxassetid://11108528694"
+        },
+        "tnt-wars": {
+            "title": "TNT Wars",
+            "image": "rbxassetid://11104071738"
+        },
+        "custom-kit": {
+            "title": "Custom Kit"
+        },
+        "pvp-arena": {
+            "image": "rbxassetid://18771884016",
+            "title": "Arena Duels",
+            "excludedStats": [
+                "ironCollected",
+                "diamondCollected",
+                "emeraldCollected",
+                "enchants"
+            ]
+        },
+        "egg-hunt": {
+            "title": "Egg Hunt"
+        },
+        "sandbox": {
+            "title": "Sandbox",
+            "image": "rbxassetid://11104064080"
+        },
+        "murderer-game": {
+            "title": "Murderer"
+        },
+        "halloween-2025-event-pve": {
+            "title": "Halloween 2025 Event"
+        },
+        "combined-kit": {
+            "title": "Kit Fusion"
+        },
+        "hot-potato": {
+            "title": "TNT Run",
+            "image": "rbxassetid://11104071738"
+        },
+        "winter-event": {
+            "title": "Winter Event 2022"
+        },
+        "skywars": {
+            "image": "rbxassetid://11108575630",
+            "title": "Skywars",
+            "excludedStats": [
+                "bedBreaks",
+                "ironCollected",
+                "diamondCollected",
+                "emeraldCollected",
+                "enchants",
+                "titanKills",
+                "diamondGuardianKills"
+            ]
+        },
+        "capture_the_points": {
+            "title": "Capture the Points"
+        },
+        "mine-wars": {
+            "title": "Mine Wars"
+        },
+        "skull-drop": {
+            "title": "Hunter"
+        },
+        "halloween-event": {
+            "title": "Halloween Event 2022"
+        },
+        "overpowered": {
+            "title": "Overpowered"
+        },
+        "halloween-2024-event": {
+            "title": "Halloween 2024 Event"
+        },
+        "lb_oneblock": {
+            "title": "Luckyblock Towers"
+        },
+        "jugg-v2": {
+            "title": "Juggernaut",
+            "image": "rbxassetid://11108534877"
+        },
+        "custom-kit-creator": {
+            "title": "Custom Kit Creator"
+        },
+        "battle-royale": {
+            "title": "Battle Royale",
+            "image": "rbxassetid://18771884016"
+        },
+        "fast_casual": {
+            "title": "Fast & Casual"
+        },
+        "lasso-wars": {
+            "title": "Lasso Wars",
+            "excludedStats": [
+                "bedBreaks",
+                "blockBreaks",
+                "blocksPlaced",
+                "ironCollected",
+                "diamondCollected",
+                "emeraldCollected",
+                "enchants",
+                "titanKills",
+                "diamondGuardianKills",
+                "telepearlsUsed",
+                "telepearlBlocksTravelled"
+            ]
+        },
+        "training-room": {
+            "title": "Training Room"
+        },
+        "block-hunt": {
+            "title": "Block Hunt"
+        }
+    },
+    "getGameMeta": null
+}
